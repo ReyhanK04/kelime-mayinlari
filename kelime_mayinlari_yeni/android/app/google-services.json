@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "902824532337",
+    "firebase_url": "https://kelimemayinlarifirebase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kelimemayinlarifirebase",
+    "storage_bucket": "kelimemayinlarifirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902824532337:android:2fad970e797b1391cdbed0",
+        "android_client_info": {
+          "package_name": "com.example.kelime_mayinlari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdy-KNAHGGMz0YbDhhfNErq3t4J3svWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902824532337:android:809a141fcd4ce8a4cdbed0",
+        "android_client_info": {
+          "package_name": "com.example.kelime_mayinlari_yeni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdy-KNAHGGMz0YbDhhfNErq3t4J3svWFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
